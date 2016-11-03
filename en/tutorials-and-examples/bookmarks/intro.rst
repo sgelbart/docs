@@ -89,7 +89,11 @@ Checking our Installation
 =========================
 
 We can quickly check that our installation is correct, by checking the default
-home page. Before you can do that, you'll need to start the development server::
+home page. Before you can do that, you'll need to move into your folder::
+
+   cd bookmarker
+
+And start the development server::
 
     bin/cake server
 
